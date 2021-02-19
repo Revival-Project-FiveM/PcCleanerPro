@@ -1,4 +1,4 @@
-# Pc Cleaner Pro
+# Pc Cleaner Pro by P0LI3H
 
 ---
 
