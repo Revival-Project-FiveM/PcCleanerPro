@@ -6,7 +6,7 @@ Options :
 
 - Clean Temp
 - Clean Caches
-- Clern useless shit
+- Clean Useless Shit
 
 ---
 
